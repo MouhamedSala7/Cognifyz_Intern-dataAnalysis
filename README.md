@@ -86,10 +86,4 @@ Welcome to the **Cognifyz Data Analysis Project**! This project involves analyzi
     - We studied whether higher-priced restaurants are more likely to offer online delivery and table booking.
     - This analysis helped identify if higher pricing influences the availability of these services.
 
----
 
-
-- Run the analysis scripts provided for each task.
-  
-## Results
-- Results for each task are documented in the form of visualizations and summary statistics in the `Results` folder.
